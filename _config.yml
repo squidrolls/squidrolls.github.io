@@ -14,32 +14,32 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Elaina Yang # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: my personal blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  blog, github, leetcode.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://squidrolls.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: squidrolls # change to your GitHub username
 
 twitter:
-  username: twitter_username # change to your Twitter username
+  username: squidroll1 # change to your Twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Elaina Yang
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://twitter.com/squidroll1 # change to your Twitter homepage
+    - https://github.com/squidrolls # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://scontent.fpia1-1.fna.fbcdn.net/v/t39.30808-1/449742339_1199625797838934_6384038116622642199_n.jpg?stp=dst-jpg_s480x480&_nc_cat=102&ccb=1-7&_nc_sid=0ecb9b&_nc_ohc=TLiyclVriiEQ7kNvgEBFatr&_nc_ht=scontent.fpia1-1.fna&oh=00_AYA-nP5b7wTTsDgjoywyvKS4TK05612Uees18LFH9hpB7w&oe=66DD28A7
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
